@@ -2,8 +2,10 @@
   "Id": "VRTweaks",
   "DisplayName": "VRTweaks",
   "Author": "flatscreen2VR",
-  "Version": "1.1.0",
+  "Version": "1.1.2",
   "Enable": true,
   "Game": "BelowZero",
+  "NexusId": {"BelowZero": "118"},
+  "VersionChecker": {"LatestVersionURL": "https://raw.githubusercontent.com/MrPurple6411/VRTweaks/master/VRTweaks/mod.json"},
   "AssemblyName": "VRTweaks.dll"
 }
